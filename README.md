@@ -1,3 +1,11 @@
+## One Line Game Solution
+
+- Enter number or rows and columns
+- Enter the board where 
+  - N: Not a node 
+  - Y: Node 
+  - S: Start Node
+
 
 ## Example 1
 
